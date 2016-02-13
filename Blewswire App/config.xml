@@ -2,8 +2,8 @@
 <widget id="com.blewswire.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>Blewswire</name>
-    <description>Your News, Your Views</description>
-    <author email=“blammin96@outlook.com“ href="http://www.blewswire.com">AGOTH Webmaster</author>
+    <description>Latest Student News From Around Cambridge</description>
+    <author email="bl389@cam.ac.uk" href="http://www.blewsire.com">Ben Lammin</author>
 
     <preference name="phonegap-version" value="3.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
